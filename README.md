@@ -10,24 +10,31 @@ Hi, i'm Thiago Lopes a Software Engineer who is passionate about computer scienc
 
 **Language and Tools**
 
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> **JavaScript**</img>
+<img height="25" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img height="25" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+
+<img height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
+
+<img height="25" src=" https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+
+<img height="25" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
 
 
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> **TypeScript**</img>
+<img height="25" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
 
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> **React**</img>
+<img height="25" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
 
+<img height="25" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
 
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> **Node.js**</img>
+<img height="25" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
-
-<img height="25" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> **Spring Boot**</img>
-
-
-<img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"> **Python**</img>
+<img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 
 
+<img height="25" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">
 
+
+<img height="25" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
 
 ### 📫 **How to reach me**:
 
@@ -37,8 +44,6 @@ Hi, i'm Thiago Lopes a Software Engineer who is passionate about computer scienc
 [![Gmail](https://img.shields.io/badge/Gmail-thiago.lopes.dev@gmail.com-blue?logo=Gmail&logoColor=Red&labelColor=grey)](mailto:thiago.lopes.dev@gmail.com)
 
 
-<img align="left" style="border-radius: 5px" alt="GIF" src="https://github-contribution-stats.vercel.app/api/?username=Thiago18l" />
-</p></br>
+<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Thiago18l&theme=dark&show_icons=true&hide_border=true"/>
 
-
-
+<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago18l&layout=compact&theme=dark&hide_border=true"/>
