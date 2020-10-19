@@ -9,7 +9,7 @@
 
 
 <h2 align="center"> :wrench: <strong>Language and Tools</strong> </h2>
-<p align="center"
+<p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 <img src="https://img.shields.io/badge/Nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white">
