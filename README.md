@@ -3,9 +3,8 @@
 <p align="center">Hi, i'm Thiago Lopes a Software Engineer who is passionate about computer science and open source!</p>
 
 
-<p align = "center"> :heavy_check_mark: I am currently studying backend technologies like Ruby on rails, flask, Nestjs and more. Always looking to improve as a professional and as a person</p>
+<p align = "center"> :heavy_check_mark: I am currently studying backend technologies like flask, Nestjs and more.</p>
 
-<p align = "center"> :telescope: I am looking to collaborate and grow in innovative projects </p>
 
 
 <h2 align="center"> :wrench: <strong>Language and Tools</strong> </h2>
