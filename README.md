@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"></p>
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-%23007ACC.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></p>
 ### 📫 **How to reach me**:
 
 **Feel free to contact me. I am always here.**
