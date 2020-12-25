@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 <img src="https://img.shields.io/badge/Nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/ruby%20-%23CC0000.svg?&style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/rust-%23630.svg?&style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
@@ -21,7 +22,6 @@
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"></p>
-
 ### 📫 **How to reach me**:
 
 **Feel free to contact me. I am always here.**
