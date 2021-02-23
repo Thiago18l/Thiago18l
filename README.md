@@ -9,17 +9,14 @@
 
 <h2 align="center"> :wrench: <strong>Language and Tools</strong> </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-<img src="https://img.shields.io/badge/Nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/ruby%20-%23CC0000.svg?&style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/rust-%23630.svg?&style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/GO-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-%23007ACC.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
