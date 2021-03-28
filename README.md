@@ -1,16 +1,15 @@
 ## Hi there 👋,
 
-<p align="center">Hi, i'm Thiago Lopes a Software Engineer who is passionate about computer science and open source!</p>
+<p align="center">Hi, i'm Thiago Lopes is a pleasure to see you here, make yourself comfortable!</p>
 
 
-<p align = "center"> :heavy_check_mark: I am currently studying backend technologies like flask, Nestjs and more.</p>
+<p align = "center"> :heavy_check_mark: I'm a DevOps/Backend Engineer, now i'm studyng some tech's like golang, nodejs, k8s, ci/cd and more...</p>
 
 
 
-<h2 align="center"> :wrench: <strong>Language and Tools</strong> </h2>
+<h2 align="center"> :wrench: <strong>Languages and Tools</strong> </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/ruby%20-%23CC0000.svg?&style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/rust-%23630.svg?&style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/GO-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
