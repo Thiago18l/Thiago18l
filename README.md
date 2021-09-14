@@ -3,7 +3,7 @@
 <p align="center">Hi, i'm Thiago Lopes is a pleasure to see you here, make yourself comfortable!</p>
 
 
-<p align = "center"> :heavy_check_mark: I'm a DevOps/Backend Engineer, now i'm studyng some tech's like golang, nodejs, k8s, ci/cd and more...</p>
+<p align = "center"> :heavy_check_mark: I'm a DevOps/SRE Engineer, now i'm studyng some tech's like golang, ansible, k8s, ci/cd and more...</p>
 
 
 
